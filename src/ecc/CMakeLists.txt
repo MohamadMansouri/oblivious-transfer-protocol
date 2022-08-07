@@ -1,0 +1,1 @@
+add_library(ecc SHARED ecc_secp256r1.cpp ecc_bn254.cpp)
