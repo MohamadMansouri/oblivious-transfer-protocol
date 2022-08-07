@@ -4,8 +4,8 @@ project(VerifiableSA)
 
 enable_testing()
 
-set(CMAKE_BUILD_TYPE Debug)
-set(CMAKE_BUILD_TYPE RelWithDebInfo)
+# set(CMAKE_BUILD_TYPE Debug)
+# set(CMAKE_BUILD_TYPE RelWithDebInfo)
 
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall")
